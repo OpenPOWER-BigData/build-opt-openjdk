@@ -1,4 +1,4 @@
-# Three simple steps to build an optimized OpenJDK binary for Power:
+# Three simple steps to build an optimized OpenJDK 1.8 binary (tar file) for Power:
 1) Install docker - i.e. sudo apt-get install docker.io
 2) Execute below command from the command line:
 ```
